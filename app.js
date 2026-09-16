@@ -36,7 +36,7 @@ In order to be iterable, non-array objects must have a [Symbol.iterator]() metho
            ========================================================= */
 
         :host {
-          margin-top: 20px;
+          margin-top: 18px;
 
           display: flex !important;
           align-items: center;
